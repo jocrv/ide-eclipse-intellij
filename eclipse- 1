@@ -1,0 +1,49 @@
+IDE Eclipse 
+select the directory as workspace 
+//change perspective: window show view console 
+control 3
+git, perspective
+cntr 3 degub perspective
+java simple, none javaee 
+java perspectives java 
+
+//create simple project in java 
+crl+ n project
+project name: first program
+save this project in workspace 
+dcouments, new folder
+name Git
+java 11 xxulu we loading, finished, and create the project 
+//open folder snc
+ctrl + n 
+class, next 
+package: 
+com.bio 
+name: 
+FirstProgram
+public static void main to create some class
+finish 
+
+//
+package com.bio;
+
+public class FirstProgram { 
+    public static void main(String[] args){
+        System.out.printIn("Hello, Peeps!");
+    }
+}
+
+//run as java application to save and compiled OR use the run as java application with the right bottom. Save and Launch Select resources, OK 
+//
+
+package com.bio;
+
+public class FirstProgram { 
+    public static void main(String[] args){
+        int a = 2;
+        int b = 3;
+        System.out.printIn("Hello, Peeps!");
+    }
+}
+
+// run as java application 
