@@ -1,0 +1,25 @@
+// Eclipse install
+
+website site eclipse, dowload instalator
+choose the option Eclipe IDE for enterprise java and web developers 
+click the folde for the firts option (Java 11+VM) select JDK which we install before in our machine 
+select option "create start menu entry" and "create desktop shortcut"
+install
+accept now  
+launch 
+finish, done. 
+
+// Install IntelliJ IDE Community
+website oficial from INTELLIJ 
+Choose the option Comunity and do download 
+next, and chosse the option Installation Option select the options: 4.1 64-bit launcher ( if your system is 64 bit, maybe not choose the option 32-bit) 
+4.2 add "open folder as project"
+4.3 .java- .groovy- .kt 
+4.4 Add lauchers dir to the PATH 
+4.5 next 
+install
+finally the installation, choose the option reebot later 
+after instal INTELLIJ let's begin:
+7.1 I confirm that I have...>> confirm
+7.2 Data Sharing >> Send Anonymous Statistics 
+8. IDE finish 
